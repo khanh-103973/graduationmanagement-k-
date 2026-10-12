@@ -1,12 +1,12 @@
 :root {
-    --gm-bg: #f4f6f9;
+    --gm-bg: #f8fafc;
     --gm-panel: #ffffff;
-    --gm-sidebar: #343a40;
-    --gm-sidebar-soft: #3f474f;
+    --gm-sidebar: #0f172a; 
+    --gm-sidebar-soft: #1e293b;
     --gm-line: #dee2e6;
     --gm-text: #1f2933;
     --gm-muted: #6c757d;
-    --gm-blue: #007bff;
+    --gm-blue: ##2563eb; 
     --gm-cyan: #17a2b8;
     --gm-yellow: #ffc107;
     --gm-green: #28a745;
